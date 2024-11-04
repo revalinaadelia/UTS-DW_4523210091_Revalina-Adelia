@@ -1,6 +1,6 @@
 # 🛫 Let LiaSkies Be Your Guide! 🛫
 
-Hallo FriendLiaSkies 🖐
+## Hallo FriendLiaSkies 🖐
 Dalam rangka projek Ujian Tengah Semester (UTS) mata kuliah Desain Web, saya mengembangkan sebuah website dengan nama "LiaSkies". Website ini mengimplementasikan desain web yang responsif, menarik, dan informatif bagi pengguna.
 
 ## 📃 Identitas Diri
