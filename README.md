@@ -18,7 +18,7 @@ LiaSkies adalah platform tour and travel yang dirancang khusus untuk memenuhi se
 
 LiaSkies menyediakan beberapa fitur yang dapat digunakan, antara lain sebagai berikut :
 
-- **Home**    : Bagian home menampilkan tampilan utama berupa header yang berisi judul untuk menarik perhatian pengguna dan background seperti gambar pesawat untuk menjadi ciri khas dan pemesanan perjalanan.
+- **Home**    : Bagian home menampilkan tampilan utama berupa header yang berisi judul untuk menarik perhatian pengguna dan background seperti gambar pesawat untuk menjadi ciri khas paltform dan pemesanan perjalanan.
 - **About**   : Menyediakan pilihan destinasi wisata yang paling populer beserta rating yang pengunjung berikan.
 - **Tour**    : Penjelasan mengenai tour dari paltform ini, seperti pengalaman pemesanan yang lancar, rekomendasi perjalanan, dan sebagainya.
 - **Package** : Berisi paket wisata, menampilkan years experience, happy clients, dan overall ratings serta testimoni.
@@ -59,7 +59,7 @@ LiaSkies menyediakan beberapa fitur yang dapat digunakan, antara lain sebagai be
 
 ![image](https://github.com/user-attachments/assets/f602bf33-5fb3-446d-b150-2b2e37faa5b7)
 
-![image](https://github.com/user-attachments/assets/8674f173-e11d-4f60-bd23-3d6607913e4f)
+![image](https://github.com/user-attachments/assets/b79c2295-b139-4892-931b-07456086caa6)
 
 ![image](https://github.com/user-attachments/assets/909bcb1d-09c8-443c-8acb-667646545238)
 
