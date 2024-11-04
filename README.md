@@ -5,10 +5,10 @@ Dalam rangka projek Ujian Tengah Semester (UTS) mata kuliah Desain Web, saya men
 
 ## 📃 Identitas Diri
 
-- *Nama*           : Revalina Adelia
-- *NPM*            : 4523210091
-- *Mata Kuliah*    : Desain Web (A)
-- *Dosen Pengampu* : Adi Wahyu Pribadi, S.Si., M.Kom.
+- **Nama**           : Revalina Adelia
+- **NPM**            : 4523210091
+- **Mata Kuliah**    : Desain Web (A)
+- **Dosen Pengampu** : Adi Wahyu Pribadi, S.Si., M.Kom.
 
 ## 📄 Deskripsi Website
 
@@ -18,26 +18,26 @@ LiaSkies adalah platform tour and travel yang dirancang khusus untuk memenuhi se
 
 LiaSkies menyediakan beberapa fitur yang dapat digunakan, antara lain sebagai berikut :
 
-- *Home*    : Bagian home menampilkan tampilan utama berupa header yang berisi judul untuk menarik perhatian pengguna dan background seperti gambar pesawat untuk menjadi ciri khas dan pemesanan perjalanan.
-- *About*   : Menyediakan pilihan destinasi wisata yang paling populer beserta rating yang pengunjung berikan.
-- *Tour*    : Penjelasan mengenai tour dari paltform ini, seperti pengalaman pemesanan yang lancar, rekomendasi perjalanan, dan sebagainya.
-- *Package* : Berisi paket wisata, menampilkan years experience, happy clients, dan overall ratings serta testimoni.
-- *Contact* : Sosial media yang digunakan oleh LiaSkies.
+- **Home**    : Bagian home menampilkan tampilan utama berupa header yang berisi judul untuk menarik perhatian pengguna dan background seperti gambar pesawat untuk menjadi ciri khas dan pemesanan perjalanan.
+- **About**   : Menyediakan pilihan destinasi wisata yang paling populer beserta rating yang pengunjung berikan.
+- **Tour**    : Penjelasan mengenai tour dari paltform ini, seperti pengalaman pemesanan yang lancar, rekomendasi perjalanan, dan sebagainya.
+- **Package** : Berisi paket wisata, menampilkan years experience, happy clients, dan overall ratings serta testimoni.
+- **Contact** : Sosial media yang digunakan oleh LiaSkies.
 
 ## 💻 Teknologi yang Digunakan
 
-- *HTML5*      : Digunakan untuk struktur dan konten website.
-- *CSS3*       : Digunakan untuk memperindah tampilan, tata letak, dan fitur responsif.
-- *JavaScript* : Digunakan untuk meningkatkan interaktivitas dan bersifat opsional.
+- **HTML5**      : Digunakan untuk struktur dan konten website.
+- **CSS3**       : Digunakan untuk memperindah tampilan, tata letak, dan fitur responsif.
+- **JavaScript** : Digunakan untuk meningkatkan interaktivitas dan bersifat opsional.
 
 ## 📞 Kontak
 
-- *Email* : revalina4523091@univpancasila.ac.id
-- *GitHub* : https://github.com/revalinaadelia
+- **Email** : revalina4523091@univpancasila.ac.id
+- **GitHub** : https://github.com/revalinaadelia
 
 ## 📸 Screenshot
 
-*Tampilan Mobile*
+**Tampilan Mobile**
 
 ![image](https://github.com/user-attachments/assets/1d930ea7-3ecb-470d-929f-c3fc81e51ae0)
 
@@ -55,7 +55,7 @@ LiaSkies menyediakan beberapa fitur yang dapat digunakan, antara lain sebagai be
 
 ![image](https://github.com/user-attachments/assets/644d20ac-6388-4cc6-babb-bb0aa268c85e)
 
-*Tampilan Tablet*
+**Tampilan Tablet**
 
 ![image](https://github.com/user-attachments/assets/f602bf33-5fb3-446d-b150-2b2e37faa5b7)
 
@@ -67,7 +67,7 @@ LiaSkies menyediakan beberapa fitur yang dapat digunakan, antara lain sebagai be
 
 ![image](https://github.com/user-attachments/assets/502ca522-a5a2-4c98-9530-753097c29827)
 
-*Tampilan Desktop*
+**Tampilan Desktop**
 
 ![image](https://github.com/user-attachments/assets/8a4f392c-08a9-4005-8944-d77e0001529b)
 
@@ -81,7 +81,7 @@ LiaSkies menyediakan beberapa fitur yang dapat digunakan, antara lain sebagai be
 
 ![image](https://github.com/user-attachments/assets/8bf845be-47a4-42b5-b07f-4462daeb5df6)
 
-*Tampilan Keseluruhan*
+**Tampilan Keseluruhan**
 
 ![image](https://github.com/user-attachments/assets/5aabdf4d-6b09-44bd-9777-83d1d7fa8aff)
 
@@ -98,27 +98,3 @@ LiaSkies menyediakan beberapa fitur yang dapat digunakan, antara lain sebagai be
 ![image](https://github.com/user-attachments/assets/4b48a199-a5a1-4fa8-a794-5caebb63a6c6)
 
 ![image](https://github.com/user-attachments/assets/45b93781-e2fc-46fa-9912-7ac8302212b3)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
