@@ -12,15 +12,15 @@ Dalam rangka projek Ujian Tengah Semester (UTS) mata kuliah Desain Web, saya men
 
 ## 📄 Deskripsi Website
 
-LiaSkies adalah platform tour and travel yang dirancang khusus untuk memenuhi semua kebutuhan perjalanan seseorang. Paltform ini menjual produk perjalanan dan jasa kepada pelanggan, seperti maskapai penerbangan dan destinasi wisata. Melalui LiaSkies, pelanggan akan merasakan pengalaman dan petualangan yang menyenangkan.
+LiaSkies adalah platform tour and travel yang dirancang khusus untuk memenuhi semua kebutuhan perjalanan seseorang. Platform ini menjual produk perjalanan dan jasa kepada pelanggan, seperti maskapai penerbangan dan destinasi wisata. Melalui LiaSkies, pelanggan akan merasakan pengalaman dan petualangan yang menyenangkan.
 
 ## 📌 Fitur Website
 
 LiaSkies menyediakan beberapa fitur yang dapat digunakan, antara lain sebagai berikut :
 
-- **Home**    : Bagian home menampilkan tampilan utama berupa header yang berisi judul untuk menarik perhatian pengguna dan background seperti gambar pesawat untuk menjadi ciri khas paltform dan pemesanan perjalanan.
+- **Home**    : Bagian home menampilkan tampilan utama berupa header yang berisi judul untuk menarik perhatian pengguna dan background seperti gambar pesawat untuk menjadi ciri khas platform serta pemesanan perjalanan.
 - **About**   : Menyediakan pilihan destinasi wisata yang paling populer beserta rating yang pengunjung berikan.
-- **Tour**    : Penjelasan mengenai tour dari paltform ini, seperti pengalaman pemesanan yang lancar, rekomendasi perjalanan, dan sebagainya.
+- **Tour**    : Penjelasan mengenai tour dari platform ini, seperti pengalaman pemesanan yang lancar, rekomendasi perjalanan, dan sebagainya.
 - **Package** : Berisi paket wisata, menampilkan years experience, happy clients, dan overall ratings serta testimoni.
 - **Contact** : Sosial media yang digunakan oleh LiaSkies.
 
@@ -32,8 +32,9 @@ LiaSkies menyediakan beberapa fitur yang dapat digunakan, antara lain sebagai be
 
 ## 📞 Kontak
 
-- **Email** : revalina4523091@univpancasila.ac.id
-- **GitHub** : https://github.com/revalinaadelia
+- **Email**    : revalina4523091@univpancasila.ac.id
+- **LinkedIn** : https://www.linkedin.com/in/revalina08
+- **GitHub**   : https://github.com/revalinaadelia
 
 ## 📸 Screenshot
 
