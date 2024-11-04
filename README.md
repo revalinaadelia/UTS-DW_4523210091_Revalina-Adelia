@@ -94,7 +94,7 @@ LiaSkies menyediakan beberapa fitur yang dapat digunakan, antara lain sebagai be
 
 ![image](https://github.com/user-attachments/assets/e6545fae-ce96-4926-9eec-98780ecd4092)
 
-![image](https://github.com/user-attachments/assets/cb7e77cd-3890-45be-9a1b-168dd1e45e87)
+![image](https://github.com/user-attachments/assets/452a8ede-546b-4d0e-a903-99147457092d)
 
 ![image](https://github.com/user-attachments/assets/4b48a199-a5a1-4fa8-a794-5caebb63a6c6)
 
